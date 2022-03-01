@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "firstName": "ffydtrdytf",
+      "lastName": "hdytruytru",
+      "email": "ram@gmail.com",
+      "mobile": "6889797997",
+      "salary": "675765766"
+    },
+    {
+      "id": 6,
+      "firstName": "aerfghrsh",
+      "lastName": "fhrtgh",
+      "email": "hrth",
+      "mobile": "345345",
+      "salary": "4546546456"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "shubham",
+      "email": "shubham@gmail.com",
+      "password": "123456",
+      "mobile": 5646346554,
+      "id": 1
+    },
+    {
+      "fullname": "sam",
+      "email": "sam@gmail.com",
+      "password": "222222",
+      "mobile": 565655765,
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "fullname": "tyrt",
+      "email": "4353",
+      "password": "4tgterg",
+      "mobile": 435435345,
+      "id": 4
+    },
+    {
+      "fullname": "aman",
+      "email": "aman@gmail.com",
+      "password": "00000000",
+      "mobile": 6755656676,
+      "id": 5
+    },
+    {
+      "fullname": "a",
+      "email": "a",
+      "password": "1",
+      "mobile": 5,
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
